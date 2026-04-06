@@ -17,3 +17,14 @@
       - Limited processing power and memory - not suitable for advanced real-time processing  
       - Requires wired connection to laptop for data transfer 
 
+#### Option 2: Arduino Nano ESP32 (future upgrade)
+  - Pros:
+    - Built-in Wi-Fi and Bluetooth — enables wireless data transfer and mobile app integration   
+    - Significantly higher processing power — supports more complex analysis and future ML features  
+    - More memory — allows scaling of software and data handling  
+
+  - Cons:
+    - Increased complexity — harder to debug, especially in early stages  
+    - 3.3V logic — may require additional circuitry for some sensors  
+    - Wireless communication introduces latency and connection issues  
+    - Overkill for initial prototype focused on basic sensor validation  
