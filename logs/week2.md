@@ -2,6 +2,7 @@
 
 ## Monday - Day 1
 - Researching components to purchase for the glove prototype
+- Starting off by testing on the desk (without gloves) to confirm if I should continue with the same components
 
 ### Microcontroller Selection
 
