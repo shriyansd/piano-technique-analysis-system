@@ -17,14 +17,14 @@
       - Limited processing power and memory - not suitable for advanced real-time processing  
       - Requires wired connection to laptop for data transfer 
 
-#### Option 2: Arduino Nano ESP32 (future upgrade)
+#### Option 2: [Arduino Nano ESP32](https://www.amazon.com/Arduino-ABX00083-Bluetooth-MicroPython-Compatible/dp/B0C947BHK5/ref=sr_1_1_sspa?crid=S9DJAC6PA4CV&dib=eyJ2IjoiMSJ9.QmNYvO8VeEYJRoPLV8e0zXTVa4f1jG2BDdr1cCnXe_OQPxll2p4MRtEvcdyAjUzwsmYcBqV7VpP9HKNBOMKQQg3XW9ebQyHS8mk-s2wtHu4p0E4pNznY9hmcluU_dihlxDkAuGATYmuPyojAIAWTYYe5l510tamQi6-mrmNp_W8y3TrCawjxOSKm4fDRZ1-JHrEIyFbAVd-8vva1Y-MXEcJYSngBD3bA1_cxP2qB_ZA.q6huMYtKsXLQ11GgsgKt1kUeKT21MzwCJUtiEzoXrPU&dib_tag=se&keywords=arduino%2Bnano&qid=1775511316&sprefix=arduino%2Bnan%2Caps%2C186&sr=8-1-spons&sp_csd=d2lkZ2V0TmFtZT1zcF9hdGY&th=1) (future upgrade)
   - Pros:
-    - Built-in Wi-Fi and Bluetooth — enables wireless data transfer and mobile app integration   
-    - Significantly higher processing power — supports more complex analysis and future ML features  
-    - More memory — allows scaling of software and data handling  
+    - Built-in Wi-Fi and Bluetooth - enables wireless data transfer and mobile app integration   
+    - Significantly higher processing power - supports more complex analysis and future ML features  
+    - More memory - allows scaling of software and data handling  
 
   - Cons:
-    - Increased complexity — harder to debug, especially in early stages  
-    - 3.3V logic — may require additional circuitry for some sensors  
+    - Increased complexity - harder to debug, especially in early stages  
+    - 3.3V logic - may require additional circuitry for some sensors  
     - Wireless communication introduces latency and connection issues  
     - Overkill for initial prototype focused on basic sensor validation  
